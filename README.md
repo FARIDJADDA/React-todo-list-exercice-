@@ -1,10 +1,6 @@
-# React-todo-list-exercice-
+# Styling React Components
 
-## Description
-
-Petit projet React sous forme de todo list pour voir les différents styles que nous pouvons utiliser sur cette librairie.
-Chaque commit correspondra à un style différent naviguez entre les commits pour voir les différents styles.
-
+## Chaque commit correspondra à un style différent naviguez entre les commits pour voir les différents styles.
 
 ### Cloner le projet
 
