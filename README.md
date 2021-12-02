@@ -30,4 +30,6 @@ yarn start
 
 ```
 npm install --save styled-components
+ou
+yarn install --save styled-components
 ```
