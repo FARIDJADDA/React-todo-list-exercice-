@@ -24,3 +24,10 @@ cd <nom_projet>
 yarn
 yarn start
 ```
+
+### Styled Components 
+#### Installation 
+
+```
+npm install --save styled-components
+```
